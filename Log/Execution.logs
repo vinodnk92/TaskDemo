@@ -1,0 +1,75 @@
+2021-08-30 15:28:38,972 -  INFO (Log.java:47) - Open browser
+2021-08-30 15:28:39,107 -  INFO (Log.java:47) - Maximize browser
+2021-08-30 15:28:39,793 -  INFO (Log.java:47) - Navigate to URLhttps://www.saucedemo.com
+2021-08-30 15:28:45,386 -  INFO (Log.java:47) - Enter UserNamestandard_user
+2021-08-30 15:28:46,390 -  INFO (Log.java:47) - Waiting for 1 Seconds
+2021-08-30 15:28:47,902 -  INFO (Log.java:47) - Waiting for 1 Seconds
+2021-08-30 15:28:48,178 -  INFO (Log.java:47) - Home Page is Displayed
+2021-08-30 15:28:49,192 -  INFO (Log.java:47) - Waiting for 1 Seconds
+2021-08-30 15:28:51,482 -  INFO (Log.java:47) - Waiting for 2 Seconds
+2021-08-30 15:28:53,895 -  INFO (Log.java:47) - Waiting for 2 Seconds
+2021-08-30 15:28:56,237 -  INFO (Log.java:47) - Waiting for 2 Seconds
+2021-08-30 15:28:58,695 -  INFO (Log.java:47) - Waiting for 2 Seconds
+2021-08-30 15:29:00,874 -  INFO (Log.java:47) - Waiting for 2 Seconds
+2021-08-30 15:29:00,926 -  INFO (Log.java:47) - First item is verified
+2021-08-30 15:29:03,067 -  INFO (Log.java:47) - Waiting for 2 Seconds
+2021-08-30 15:29:03,118 -  INFO (Log.java:47) - Second item is verified
+2021-08-30 15:29:05,269 -  INFO (Log.java:47) - Waiting for 2 Seconds
+2021-08-30 15:29:07,475 -  INFO (Log.java:47) - Waiting for 2 Seconds
+2021-08-30 15:29:09,877 -  INFO (Log.java:47) - Waiting for 2 Seconds
+2021-08-30 15:29:12,301 -  INFO (Log.java:47) - Waiting for 2 Seconds
+2021-08-30 15:29:14,534 -  INFO (Log.java:47) - Waiting for 2 Seconds
+2021-08-30 15:29:14,574 -  INFO (Log.java:47) - purchasing item is verified
+2021-08-30 15:29:16,729 -  INFO (Log.java:47) - Waiting for 2 Seconds
+2021-08-30 15:29:16,764 -  INFO (Log.java:47) - purchasing item is verified
+2021-08-30 15:29:18,937 -  INFO (Log.java:47) - Waiting for 2 Seconds
+2021-08-30 15:29:21,006 -  INFO (Log.java:47) - Waiting for 2 Seconds
+2021-08-30 15:29:23,215 -  INFO (Log.java:47) - Waiting for 2 Seconds
+2021-08-30 15:29:25,550 -  INFO (Log.java:47) - Waiting for 2 Seconds
+2021-08-30 15:29:27,818 -  INFO (Log.java:47) - Waiting for 2 Seconds
+2021-08-30 15:29:27,819 -  INFO (Log.java:47) - purchasing item is verified
+2021-08-30 15:29:29,954 -  INFO (Log.java:47) - Waiting for 2 Seconds
+2021-08-30 15:29:30,879 - DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "v3html/v3-html-index.ftl"("en", UTF-8, parsed); will try to load it.
+2021-08-30 15:29:30,880 - DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/v3-html-index_en.ftl"): Not found
+2021-08-30 15:29:30,882 - DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/v3-html-index.ftl"): Found
+2021-08-30 15:29:30,883 - DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "v3html/v3-html-index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Vinod/.m2/repository/com/aventstack/extentreports/4.0.6/extentreports-4.0.6.jar!/com/aventstack/extentreports/view/v3html/v3-html-index.ftl"
+2021-08-30 15:29:31,051 - DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "v3html/v3-html-head.ftl"("en", UTF-8, parsed); will try to load it.
+2021-08-30 15:29:31,052 - DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/v3-html-head_en.ftl"): Not found
+2021-08-30 15:29:31,052 - DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/v3-html-head.ftl"): Found
+2021-08-30 15:29:31,053 - DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "v3html/v3-html-head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Vinod/.m2/repository/com/aventstack/extentreports/4.0.6/extentreports-4.0.6.jar!/com/aventstack/extentreports/view/v3html/v3-html-head.ftl"
+2021-08-30 15:29:31,058 - DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed); will try to load it.
+2021-08-30 15:29:31,058 - DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/v3-html-nav_en.ftl"): Not found
+2021-08-30 15:29:31,059 - DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/v3-html-nav.ftl"): Found
+2021-08-30 15:29:31,059 - DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "v3html/v3-html-nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Vinod/.m2/repository/com/aventstack/extentreports/4.0.6/extentreports-4.0.6.jar!/com/aventstack/extentreports/view/v3html/v3-html-nav.ftl"
+2021-08-30 15:29:31,084 - DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-08-30 15:29:31,084 - DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view_en.ftl"): Not found
+2021-08-30 15:29:31,084 - DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view.ftl"): Found
+2021-08-30 15:29:31,084 - DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "v3html/test-view/v3-html-test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Vinod/.m2/repository/com/aventstack/extentreports/4.0.6/extentreports-4.0.6.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view.ftl"
+2021-08-30 15:29:31,095 - DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2021-08-30 15:29:31,095 - DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts_en.ftl"): Not found
+2021-08-30 15:29:31,096 - DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-test-view-charts.ftl"): Found
+2021-08-30 15:29:31,096 - DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "v3html/test-view/v3-html-test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Vinod/.m2/repository/com/aventstack/extentreports/4.0.6/extentreports-4.0.6.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-test-view-charts.ftl"
+2021-08-30 15:29:31,107 - DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "v3html/test-view/v3-html-bdd.ftl"("en", UTF-8, parsed); will try to load it.
+2021-08-30 15:29:31,111 - DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-bdd_en.ftl"): Not found
+2021-08-30 15:29:31,111 - DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/test-view/v3-html-bdd.ftl"): Found
+2021-08-30 15:29:31,112 - DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "v3html/test-view/v3-html-bdd.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Vinod/.m2/repository/com/aventstack/extentreports/4.0.6/extentreports-4.0.6.jar!/com/aventstack/extentreports/view/v3html/test-view/v3-html-bdd.ftl"
+2021-08-30 15:29:31,137 - DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-08-30 15:29:31,139 - DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view_en.ftl"): Not found
+2021-08-30 15:29:31,139 - DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/category-view/v3-html-category-view.ftl"): Found
+2021-08-30 15:29:31,140 - DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "v3html/category-view/v3-html-category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Vinod/.m2/repository/com/aventstack/extentreports/4.0.6/extentreports-4.0.6.jar!/com/aventstack/extentreports/view/v3html/category-view/v3-html-category-view.ftl"
+2021-08-30 15:29:31,145 - DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-08-30 15:29:31,146 - DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view_en.ftl"): Not found
+2021-08-30 15:29:31,146 - DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/exception-view/v3-html-exception-view.ftl"): Found
+2021-08-30 15:29:31,146 - DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "v3html/exception-view/v3-html-exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Vinod/.m2/repository/com/aventstack/extentreports/4.0.6/extentreports-4.0.6.jar!/com/aventstack/extentreports/view/v3html/exception-view/v3-html-exception-view.ftl"
+2021-08-30 15:29:31,149 - DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-08-30 15:29:31,149 - DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view_en.ftl"): Not found
+2021-08-30 15:29:31,149 - DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/author-view/v3-html-author-view.ftl"): Found
+2021-08-30 15:29:31,149 - DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "v3html/author-view/v3-html-author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Vinod/.m2/repository/com/aventstack/extentreports/4.0.6/extentreports-4.0.6.jar!/com/aventstack/extentreports/view/v3html/author-view/v3-html-author-view.ftl"
+2021-08-30 15:29:31,153 - DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-08-30 15:29:31,153 - DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view_en.ftl"): Not found
+2021-08-30 15:29:31,154 - DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/dashboard-view/v3-html-dashboard-view.ftl"): Found
+2021-08-30 15:29:31,155 - DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "v3html/dashboard-view/v3-html-dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Vinod/.m2/repository/com/aventstack/extentreports/4.0.6/extentreports-4.0.6.jar!/com/aventstack/extentreports/view/v3html/dashboard-view/v3-html-dashboard-view.ftl"
+2021-08-30 15:29:31,163 - DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2021-08-30 15:29:31,163 - DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view_en.ftl"): Not found
+2021-08-30 15:29:31,163 - DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("v3html/logs-view/v3-html-testrunner-logs-view.ftl"): Found
+2021-08-30 15:29:31,163 - DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "v3html/logs-view/v3-html-testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Vinod/.m2/repository/com/aventstack/extentreports/4.0.6/extentreports-4.0.6.jar!/com/aventstack/extentreports/view/v3html/logs-view/v3-html-testrunner-logs-view.ftl"
